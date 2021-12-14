@@ -21,14 +21,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xD83dfE003E7c42077186D690DD3D24a0c965ca4e",
-      "name": "Yam DAO House",
-      "decimals": 18,
-      "symbol": "yamHOUSE",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/yam_house.png"
-    },
-    {
-      "chainId": 1,
       "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
       "name": "Bankless BED Index",
       "decimals": 18,
@@ -61,27 +53,11 @@
     },
     {
       "chainId": 1,
-      "address": "0xd59020ba341855285D1e3f22AeF92B58A08aD86A",
-      "name": "Supergroup Social Token Index",
-      "decimals": 18,
-      "symbol": "GROUP",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supergroup.svg"
-    },
-    {
-      "chainId": 1,
       "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
       "name": "Metaverse Index",
       "decimals": 18,
       "symbol": "MVI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x8Fd93Aa1A53b67D943912E4Cb1F338bb5BCebB09",
-      "name": "MoonQuant Trailblazer ETH Algo",
-      "decimals": 18,
-      "symbol": "MQTBE",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_mqtbe.png"
     },
     {
       "chainId": 1,
@@ -93,22 +69,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x080C7EF51681925CE75A65F97D4E650d997Ef079",
-      "name": "MoonQuant Fixed Income Proxy II",
-      "decimals": 18,
-      "symbol": "MFIX2",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0xbffa5e92BEd07Cd6F25A24d2D691945aDd3E0F98",
-      "name": "MoonQuant Trailblazer BTC Algo",
-      "decimals": 18,
-      "symbol": "MQTBB",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqbtc.png"
-    },
-    {
-      "chainId": 1,
       "address": "0x3c38D515D104c601A22453DeF532Ed34C0F35957",
       "name": "Ethereum Trading DeFi Index",
       "decimals": 18,
@@ -117,18 +77,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x97A71258312c2c19f422318ddef68a7e02c1c3C9",
-      "name": "Defi Momentum Index",
-      "decimals": 18,
-      "symbol": "DEMO",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/demo.png"
-    },
-    {
-      "chainId": 1,
       "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
       "name": "Data Economy Index",
       "symbol": "DATA",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg"
     },
     {
       "chainId": 1,
