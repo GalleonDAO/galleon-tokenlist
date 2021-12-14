@@ -5,14 +5,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "name": "Ethereum",
-      "decimals": 18,
-      "symbol": "ETH",
-      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880"
-    },
-    {
-      "chainId": 1,
       "symbol": "WETH",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "name": "Wrapped Ether",
