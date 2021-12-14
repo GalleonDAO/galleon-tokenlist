@@ -1,0 +1,149 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/ADWilkinson/indexswap-tokenlist/blob/main/indexswap.schema.json",
+  "title": "IndexSwap Details Description",
+  "description": "Schema for details of Index compatible with the IndexSwap Interface",
+  "definitions": {
+    "IndexDetails": {
+      "type": "object",
+      "description": "Metadata for a given Index details",
+      "additionalProperties": false,
+      "properties": {
+        "chainId": {
+          "type": "integer",
+          "description": "The chain ID of the Ethereum network where this token is deployed",
+          "minimum": 1,
+          "examples": [
+            1,
+            42
+          ]
+        },
+        "managerName": {
+          "type": "string",
+          "description": "The name of the manager",
+          "minLength": 1,
+          "maxLength": 40,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "examples": [
+            "Crypto Manager"
+          ]
+        },
+        "managerDescription": {
+          "type": "string",
+          "description": "The description of the manager",
+          "minLength": 1,
+          "maxLength": 1000,
+          "pattern": ".+",
+          "examples": [
+            "This is the description of the manager"
+          ]
+        },
+        "managerIcon": {
+          "type": "string",
+          "description": "A URI to the Manager logo asset; suggest SVG or PNG of size 64x64",
+          "format": "uri",
+          "examples": [
+            "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
+          ]
+        },
+        "managerTwitter": {
+          "type": "string",
+          "description": "Twitter username",
+          "minLength": 1,
+          "maxLength": 40,
+          "pattern": "^?(\\w){1,15}$",
+          "examples": [
+            "myusername"
+          ]
+        },
+        "website": {
+          "type": "string",
+          "description": "Website for users to get more information about manager or the set",
+          "format": "uri",
+          "examples": [
+            "https://www.defipulse.com"
+          ]
+        },
+        "indexDescription": {
+          "type": "string",
+          "description": "The description of the Set",
+          "minLength": 1,
+          "maxLength": 5000,
+          "pattern": ".+",
+          "examples": [
+            "This is the description of the Set"
+          ]
+        },
+        "indexIcon": {
+          "type": "string",
+          "description": "A URI to the Set logo asset; suggest SVG or PNG of size 64x64",
+          "format": "uri",
+          "examples": [
+            "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
+          ]
+        },
+        "indexDecimals": {
+          "type": "integer",
+          "description": "The number of decimals for the token balance",
+          "minimum": 0,
+          "maximum": 255,
+          "examples": [
+            18
+          ]
+        },
+        "indexName": {
+          "type": "string",
+          "description": "The name of the token",
+          "minLength": 1,
+          "maxLength": 40,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "examples": [
+            "USD Coin"
+          ]
+        },
+        "indexSymbol": {
+          "type": "string",
+          "description": "The symbol for the token; must be alphanumeric",
+          "pattern": "^[a-zA-Z0-9+\\-%/\\$]+$",
+          "minLength": 1,
+          "maxLength": 20,
+          "examples": [
+            "USDC"
+          ]
+        }
+      },
+      "required": [
+        "chainId",
+        "managerName",
+        "managerDescription",
+        "managerIcon",
+        "indexDescription",
+        "indexIcon",
+        "indexDecimals",
+        "indexName",
+        "indexSymbol"
+      ]
+    }
+  },
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "type": "number",
+      "multipleOf": 1.0,
+      "description": "The version of the details. Must be incremented when making changes.",
+      "minimum": 1,
+      "examples": [
+        1,
+        2
+      ]
+    },
+    "IndexDetails": {
+      "$ref": "#/definitions/IndexDetails"
+    }
+  },
+  "required": [
+    "version",
+    "IndexDetails"
+  ]
+}
