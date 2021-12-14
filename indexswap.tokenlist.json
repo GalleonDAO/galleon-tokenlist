@@ -1,8 +1,7 @@
 {
-  "name": "Index",
-  "logoURI": "https://raw.githubusercontent.com/ADWilkinson/indexswap-tokenlist/main/assets/indexswap-logo.svg",
+  "name": "IndexSwap Token List",
+  "logoURI": "ipfs://QmWzL3TSmkMhbqGBEwyeFyWVvLmEo3F44HBMFnmTUiTfp1",
   "keywords": ["index", "tokensets", "defi"],
-  "timestamp": "2021-12-12T12:32:17.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -172,9 +171,6 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-linketh.png"
     }
   ],
-  "version": {
-    "major": 0,
-    "minor": 5,
-    "patch": 0
-  }
+  "timestamp": "2020-12-11T17:08:18.941Z",
+  "version": { "major": 1, "minor": 3, "patch": 0 }
 }
