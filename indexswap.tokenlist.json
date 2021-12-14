@@ -4,20 +4,36 @@
   "version": { "major": 1, "minor": 3, "patch": 0 },
   "tokens": [
     {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "Ethereum",
+      "decimals": 18,
+      "symbol": "ETH"
+    },
+    {
+      "symbol": "WETH",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "name": "Wrapped Ether",
+      "decimals": 18
+    },
+    {
+      "symbol": "DAI",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "name": "Dai Stablecoin",
+      "decimals": 18
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "name": "USD Coin",
+      "decimals": 6
+    },
+    {
       "chainId": 1,
       "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
       "name": "DeFi Pulse Index",
       "decimals": 18,
       "symbol": "DPI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4",
-      "name": "SciFi Index",
-      "decimals": 18,
-      "symbol": "SCIFI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/scifi_index.svg"
     },
     {
       "chainId": 1,
@@ -61,27 +77,10 @@
     },
     {
       "chainId": 1,
-      "address": "0x618F30796284C3b0be3745dD6317d4f3dCf918Dc",
-      "name": "MoonQuant DeFi + Mainstream Crypto",
-      "decimals": 18,
-      "symbol": "MQDMC",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/defi_mqdmc.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x3c38D515D104c601A22453DeF532Ed34C0F35957",
-      "name": "Ethereum Trading DeFi Index",
-      "decimals": 18,
-      "symbol": "BTRADE",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-trade-fund-icon.png"
-    },
-    {
-      "chainId": 1,
       "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
       "name": "Data Economy Index",
       "symbol": "DATA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg"
+      "decimals": 18
     },
     {
       "chainId": 1,
