@@ -1,126 +1,126 @@
 {
   "name": "IndexSwap Token List",
-  "logoURI": "ipfs://QmWzL3TSmkMhbqGBEwyeFyWVvLmEo3F44HBMFnmTUiTfp1",
-  "keywords": ["index", "tokensets", "defi"],
+  "timestamp": "2020-12-11T17:08:18.941Z",
+  "version": { "major": 1, "minor": 3, "patch": 0 },
   "tokens": [
     {
       "chainId": 1,
       "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
       "name": "DeFi Pulse Index",
-      "symbol": "DPI",
       "decimals": 18,
+      "symbol": "DPI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
     },
     {
       "chainId": 1,
       "address": "0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4",
       "name": "SciFi Index",
-      "symbol": "SCIFI",
       "decimals": 18,
+      "symbol": "SCIFI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/scifi_index.svg"
     },
     {
       "chainId": 1,
       "address": "0xD83dfE003E7c42077186D690DD3D24a0c965ca4e",
       "name": "Yam DAO House",
-      "symbol": "yamHOUSE",
       "decimals": 18,
+      "symbol": "yamHOUSE",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/yam_house.png"
     },
     {
       "chainId": 1,
       "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
       "name": "Bankless BED Index",
-      "symbol": "BED",
       "decimals": 18,
+      "symbol": "BED",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png"
     },
     {
       "chainId": 1,
       "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
       "name": "NFT INDEX",
-      "symbol": "NFTI",
       "decimals": 18,
+      "symbol": "NFTI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nfti.svg"
     },
     {
       "chainId": 1,
       "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
       "name": "ETH 2x Flexible Leverage Index",
-      "symbol": "ETH2X-FLI",
       "decimals": 18,
+      "symbol": "ETH2X-FLI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
     },
     {
       "chainId": 1,
       "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
       "name": "Bitcoin 2x Flexible Leverage Index",
-      "symbol": "BTC2X-FLI",
       "decimals": 18,
+      "symbol": "BTC2X-FLI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png"
     },
     {
       "chainId": 1,
       "address": "0xd59020ba341855285D1e3f22AeF92B58A08aD86A",
       "name": "Supergroup Social Token Index",
-      "symbol": "GROUP",
       "decimals": 18,
+      "symbol": "GROUP",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supergroup.svg"
     },
     {
       "chainId": 1,
       "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
       "name": "Metaverse Index",
-      "symbol": "MVI",
       "decimals": 18,
+      "symbol": "MVI",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
     },
     {
       "chainId": 1,
       "address": "0x8Fd93Aa1A53b67D943912E4Cb1F338bb5BCebB09",
       "name": "MoonQuant Trailblazer ETH Algo",
-      "symbol": "MQTBE",
       "decimals": 18,
+      "symbol": "MQTBE",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_mqtbe.png"
     },
     {
       "chainId": 1,
       "address": "0x618F30796284C3b0be3745dD6317d4f3dCf918Dc",
       "name": "MoonQuant DeFi + Mainstream Crypto",
-      "symbol": "MQDMC",
       "decimals": 18,
+      "symbol": "MQDMC",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/defi_mqdmc.png"
     },
     {
       "chainId": 1,
       "address": "0x080C7EF51681925CE75A65F97D4E650d997Ef079",
       "name": "MoonQuant Fixed Income Proxy II",
-      "symbol": "MFIX2",
       "decimals": 18,
+      "symbol": "MFIX2",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png"
     },
     {
       "chainId": 1,
       "address": "0xbffa5e92BEd07Cd6F25A24d2D691945aDd3E0F98",
       "name": "MoonQuant Trailblazer BTC Algo",
-      "symbol": "MQTBB",
       "decimals": 18,
+      "symbol": "MQTBB",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqbtc.png"
     },
     {
       "chainId": 1,
       "address": "0x3c38D515D104c601A22453DeF532Ed34C0F35957",
       "name": "Ethereum Trading DeFi Index",
-      "symbol": "BTRADE",
       "decimals": 18,
+      "symbol": "BTRADE",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-trade-fund-icon.png"
     },
     {
       "chainId": 1,
       "address": "0x97A71258312c2c19f422318ddef68a7e02c1c3C9",
       "name": "Defi Momentum Index",
-      "symbol": "DEMO",
       "decimals": 18,
+      "symbol": "DEMO",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/demo.png"
     },
     {
@@ -134,43 +134,41 @@
       "chainId": 1,
       "address": "0xe2D8F9557fD46AD134C8fb5Eabf6f4DA3E0d3f68",
       "name": "ETHBTC 2x Long",
-      "symbol": "RATIOMOON",
       "decimals": 18,
+      "symbol": "RATIOMOON",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-ethbtc.png"
     },
     {
       "chainId": 1,
       "address": "0x26AB7c9ec873633D03C8f3a828F657878245A2dd",
       "name": "ETHBTC 1x Short",
-      "symbol": "RATIODOOM",
       "decimals": 18,
+      "symbol": "RATIODOOM",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-btceth.png"
     },
     {
       "chainId": 1,
       "address": "0x030ed557a0775e110394C1a543f3eB181AeEa05F",
       "name": "MKRETH 1x Short",
-      "symbol": "MKRETHDOOM",
       "decimals": 18,
+      "symbol": "MKRETHDOOM",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-ethmkr.png"
     },
     {
       "chainId": 1,
       "address": "0x0110aD3Cf10A6d04993BeC37BDCCBA6EE2C48A27",
       "name": "Tether 3x Short",
-      "symbol": "TETHERDOOM",
       "decimals": 18,
+      "symbol": "TETHERDOOM",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-usdcusdt.png"
     },
     {
       "chainId": 1,
       "address": "0x70cDD88638cB569f1Ae1d4bD3529cc7FB331cbab",
       "name": "LINKETH 2x Long",
-      "symbol": "LINKETHMOON",
       "decimals": 18,
+      "symbol": "LINKETHMOON",
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-linketh.png"
     }
-  ],
-  "timestamp": "2020-12-11T17:08:18.941Z",
-  "version": { "major": 1, "minor": 3, "patch": 0 }
+  ]
 }
