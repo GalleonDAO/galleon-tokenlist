@@ -4,28 +4,36 @@
   "version": { "major": 1, "minor": 3, "patch": 0 },
   "tokens": [
     {
+      "chainId": 1,
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "name": "Ethereum",
       "decimals": 18,
-      "symbol": "ETH"
+      "symbol": "ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880"
     },
     {
+      "chainId": 1,
       "symbol": "WETH",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "name": "Wrapped Ether",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
     },
     {
+      "chainId": 1,
       "symbol": "DAI",
       "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "name": "Dai Stablecoin",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
     },
     {
+      "chainId": 1,
       "symbol": "USDC",
       "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "name": "USD Coin",
-      "decimals": 6
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     },
     {
       "chainId": 1,
@@ -80,7 +88,8 @@
       "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
       "name": "Data Economy Index",
       "symbol": "DATA",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg"
     },
     {
       "chainId": 1,
