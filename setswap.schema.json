@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/ADWilkinson/buysets-tokenlist/blob/main/buysets.schema.json",
-  "title": "BuySets Details Description",
-  "description": "Schema for details of Index compatible with the BuySets Interface",
+  "$id": "https://github.com/ADWilkinson/setswap-tokenlist/blob/main/setswap.schema.json",
+  "title": "SetSwap Details Description",
+  "description": "Schema for details of Index compatible with the SetSwap Interface",
   "definitions": {
     "IndexDetails": {
       "type": "object",
