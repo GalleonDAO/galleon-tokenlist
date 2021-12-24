@@ -61,46 +61,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xe2D8F9557fD46AD134C8fb5Eabf6f4DA3E0d3f68",
-      "name": "ETHBTC 2x Long",
-      "decimals": 18,
-      "symbol": "RATIOMOON",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-ethbtc.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x26AB7c9ec873633D03C8f3a828F657878245A2dd",
-      "name": "ETHBTC 1x Short",
-      "decimals": 18,
-      "symbol": "RATIODOOM",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-btceth.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x030ed557a0775e110394C1a543f3eB181AeEa05F",
-      "name": "MKRETH 1x Short",
-      "decimals": 18,
-      "symbol": "MKRETHDOOM",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-ethmkr.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0110aD3Cf10A6d04993BeC37BDCCBA6EE2C48A27",
-      "name": "Tether 3x Short",
-      "decimals": 18,
-      "symbol": "TETHERDOOM",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-usdcusdt.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x70cDD88638cB569f1Ae1d4bD3529cc7FB331cbab",
-      "name": "LINKETH 2x Long",
-      "decimals": 18,
-      "symbol": "LINKETHMOON",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-linketh.png"
-    },
-    {
-      "chainId": 1,
       "symbol": "SWAP",
       "address": "0xb8a62d3df12755ac1722d934bd70aae82d842a43",
       "name": "Alpha Portfolio",
