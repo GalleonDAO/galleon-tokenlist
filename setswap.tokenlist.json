@@ -77,6 +77,14 @@
     },
     {
       "chainId": 1,
+      "symbol": "ILSI",
+      "address": "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69",
+      "name": "Invest Like Stakeborg Index",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21788/small/16292.png?1640048590"
+    },
+    {
+      "chainId": 1,
       "symbol": "DAI",
       "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "name": "Dai Stablecoin",
