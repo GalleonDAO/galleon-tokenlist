@@ -9,7 +9,8 @@
       "name": "DeFi Pulse Index",
       "decimals": 18,
       "symbol": "DPI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -17,7 +18,8 @@
       "name": "Bankless BED Index",
       "decimals": 18,
       "symbol": "BED",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -25,7 +27,8 @@
       "name": "ETH 2x Flexible Leverage Index",
       "decimals": 18,
       "symbol": "ETH2X-FLI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -33,7 +36,8 @@
       "name": "Bitcoin 2x Flexible Leverage Index",
       "decimals": 18,
       "symbol": "BTC2X-FLI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -41,7 +45,8 @@
       "name": "Metaverse Index",
       "decimals": 18,
       "symbol": "MVI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -49,7 +54,8 @@
       "name": "Data Economy Index",
       "symbol": "DATA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
