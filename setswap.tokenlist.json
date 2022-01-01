@@ -9,7 +9,8 @@
       "name": "DeFi Pulse Index",
       "decimals": 18,
       "symbol": "DPI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -17,7 +18,8 @@
       "name": "Bankless BED Index",
       "decimals": 18,
       "symbol": "BED",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -25,7 +27,8 @@
       "name": "NFT INDEX",
       "decimals": 18,
       "symbol": "NFTI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nfti.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nfti.svg",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -33,7 +36,8 @@
       "name": "ETH 2x Flexible Leverage Index",
       "decimals": 18,
       "symbol": "ETH2X-FLI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -41,7 +45,8 @@
       "name": "Bitcoin 2x Flexible Leverage Index",
       "decimals": 18,
       "symbol": "BTC2X-FLI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -49,7 +54,8 @@
       "name": "Metaverse Index",
       "decimals": 18,
       "symbol": "MVI",
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -57,7 +63,8 @@
       "name": "Data Economy Index",
       "symbol": "DATA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -65,7 +72,8 @@
       "address": "0xb8a62d3df12755ac1722d934bd70aae82d842a43",
       "name": "Alpha Portfolio",
       "decimals": 18,
-      "logoURI": "https://swdao.org/images/token-swap.png"
+      "logoURI": "https://swdao.org/images/token-swap.png",
+      "startPriceUsd": 100.00
     },
     {
       "chainId": 1,
@@ -73,39 +81,8 @@
       "address": "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69",
       "name": "Invest Like Stakeborg Index",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/21788/small/16292.png?1640048590"
-    },
-    {
-      "chainId": 1,
-      "symbol": "WETH",
-      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "name": "Wrapped Ether",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
-    },
-    {
-      "chainId": 1,
-      "symbol": "DAI",
-      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "name": "Dai Stablecoin",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
-    },
-    {
-      "chainId": 1,
-      "symbol": "USDC",
-      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "name": "USD Coin",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
-    },
-    {
-      "chainId": 1,
-      "symbol": "USDT",
-      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "name": "USDT Coin",
-      "decimals": 6,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/21788/small/16292.png?1640048590",
+      "startPriceUsd": 100.00
     }
   ]
 }
