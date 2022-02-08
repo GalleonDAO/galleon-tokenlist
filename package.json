@@ -1,6 +1,6 @@
 {
   "name": "@galleondao/setswap-tokenlist",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "token lists used by SetSwap",
   "main": "./build/cjs/index.js",
   "types": "./build/cjs/index.d.ts",
