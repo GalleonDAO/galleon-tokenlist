@@ -1,4 +1,4 @@
-Forked from [@index-coop](https://github.com/IndexCoop/tokenlists)
+Forked from [@IndexCoop](https://github.com/IndexCoop/tokenlists)
 # tokenlists
 
 npm: <https://www.npmjs.com/package/@galleondao/setswap-tokenlist>
