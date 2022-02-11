@@ -39,7 +39,18 @@ const SETSWAP_OPTIMISM_TOKENS: TokenData[] = [
   },
 ];
 
-const OPTIMISM_TOKENS: TokenData[] = [...SETSWAP_OPTIMISM_TOKENS];
+const OPTIMISM_TOKENS: TokenData[] = [
+  ...SETSWAP_OPTIMISM_TOKENS,
+  {
+    name: 'USD Coin',
+    address: '0x7f5c764cbc14f9669b88837ca1490cca17c31607',
+    symbol: 'USDC',
+    decimals: 6,
+    chainId: 10,
+    logoURI:
+      'https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389',
+  },
+];
 
 export {SETSWAP_OPTIMISM_TOKENS};
 export default OPTIMISM_TOKENS;
