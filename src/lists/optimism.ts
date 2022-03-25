@@ -1,4 +1,4 @@
-import {TokenData} from '..';
+import { TokenData } from '..'
 
 const SETSWAP_OPTIMISM_TOKENS: TokenData[] = [
   {
@@ -37,7 +37,7 @@ const SETSWAP_OPTIMISM_TOKENS: TokenData[] = [
     logoURI:
       'https://assets.coingecko.com/coins/images/23506/small/luna1x.png?1644297421',
   },
-];
+]
 
 const OPTIMISM_TOKENS: TokenData[] = [
   ...SETSWAP_OPTIMISM_TOKENS,
@@ -50,7 +50,7 @@ const OPTIMISM_TOKENS: TokenData[] = [
     logoURI:
       'https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389',
   },
-];
+]
 
-export {SETSWAP_OPTIMISM_TOKENS};
-export default OPTIMISM_TOKENS;
+export { SETSWAP_OPTIMISM_TOKENS }
+export default OPTIMISM_TOKENS

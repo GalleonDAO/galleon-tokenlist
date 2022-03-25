@@ -1,4 +1,4 @@
-import {TokenData} from '..';
+import { TokenData } from '..'
 
 const SETSWAP_ARBITRUM_TOKENS: TokenData[] = [
   {
@@ -10,9 +10,9 @@ const SETSWAP_ARBITRUM_TOKENS: TokenData[] = [
     logoURI:
       'https://github.com/GalleonDAO/setswap-tokenlist/blob/main/logos/dbl.png?raw=true',
   },
-];
+]
 
-const ARBITRUM_TOKENS: TokenData[] = [...SETSWAP_ARBITRUM_TOKENS];
+const ARBITRUM_TOKENS: TokenData[] = [...SETSWAP_ARBITRUM_TOKENS]
 
-export {SETSWAP_ARBITRUM_TOKENS};
-export default ARBITRUM_TOKENS;
+export { SETSWAP_ARBITRUM_TOKENS }
+export default ARBITRUM_TOKENS
