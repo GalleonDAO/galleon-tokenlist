@@ -14,14 +14,6 @@ const SETSWAP_MAINNET_TOKENS: TokenData[] = [
 
 const MAINNET_TOKENS: TokenData[] = [
   {
-    name: 'Aave interest bearing STETH',
-    address: '0x1982b2F5814301d4e9a8b0201555376e62F82428',
-    symbol: 'aSTETH',
-    decimals: 18,
-    chainId: 1,
-    logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png',
-  },
-  {
     name: 'Aave variable debt bearing WETH',
     address: '0xF63B34710400CAd3e044cFfDcAb00a0f32E33eCf',
     symbol: 'variableDebtWETH',
