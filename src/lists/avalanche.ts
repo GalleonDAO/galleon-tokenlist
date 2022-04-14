@@ -1,6 +1,6 @@
-import {TokenData} from '..';
+import { TokenData } from '..'
 
-const SETSWAP_AVALANCHE_TOKENS: TokenData[] = [];
+const GALLEON_AVALANCHE_TOKENS: TokenData[] = []
 
 const AVALANCHE_TOKENS: TokenData[] = [
   {
@@ -453,8 +453,8 @@ const AVALANCHE_TOKENS: TokenData[] = [
     logoURI:
       'https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png',
   },
-  ...SETSWAP_AVALANCHE_TOKENS,
-];
+  ...GALLEON_AVALANCHE_TOKENS,
+]
 
-export {SETSWAP_AVALANCHE_TOKENS};
-export default AVALANCHE_TOKENS;
+export { GALLEON_AVALANCHE_TOKENS }
+export default AVALANCHE_TOKENS

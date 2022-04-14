@@ -1,7 +1,7 @@
 {
-  "name": "@galleondao/setswap-tokenlist",
-  "version": "0.0.6",
-  "description": "Token lists used by SetSwap",
+  "name": "@galleondao/galleon-tokenlist",
+  "version": "0.0.7",
+  "description": "Token lists used by Galleon",
   "main": "./build/cjs/index.js",
   "types": "./build/cjs/index.d.ts",
   "module": "./build/esm/index.js",
@@ -33,13 +33,13 @@
     "commonjs",
     "es6"
   ],
-  "homepage": "https://github.com/GalleonDAO/setswap-tokenlist",
+  "homepage": "https://github.com/GalleonDAO/galleon-tokenlist",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GalleonDAO/setswap-tokenlist"
+    "url": "https://github.com/GalleonDAO/galleon-tokenlist"
   },
   "bugs": {
-    "url": "https://github.com/GalleonDAO/setswap-tokenlist/issues"
+    "url": "https://github.com/GalleonDAO/galleon-tokenlist/issues"
   },
   "author": {
     "name": "Andrew",

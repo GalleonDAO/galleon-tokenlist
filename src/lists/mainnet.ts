@@ -1,6 +1,6 @@
 import { TokenData } from '..'
 
-const SETSWAP_MAINNET_TOKENS: TokenData[] = [
+const GALLEON_MAINNET_TOKENS: TokenData[] = [
   {
     name: 'ETH Max Yield Index',
     address: '0x0FE20E0Fa9C78278702B05c333Cc000034bb69E2',
@@ -8,7 +8,7 @@ const SETSWAP_MAINNET_TOKENS: TokenData[] = [
     decimals: 18,
     chainId: 1,
     logoURI:
-      'https://github.com/GalleonDAO/setswap-tokenlist/blob/main/logos/ethmaxy.png?raw=true',
+      'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/ethmaxy.png?raw=true',
   },
 ]
 
@@ -47416,8 +47416,8 @@ const MAINNET_TOKENS: TokenData[] = [
     logoURI:
       'https://assets.coingecko.com/coins/images/24163/small/steth.jpg?1646634315',
   },
-  ...SETSWAP_MAINNET_TOKENS,
+  ...GALLEON_MAINNET_TOKENS,
 ]
 
-export { SETSWAP_MAINNET_TOKENS }
+export { GALLEON_MAINNET_TOKENS }
 export default MAINNET_TOKENS

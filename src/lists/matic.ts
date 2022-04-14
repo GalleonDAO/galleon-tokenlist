@@ -1,6 +1,6 @@
 import { TokenData } from '..'
 
-const SETSWAP_MATIC_TOKENS: TokenData[] = []
+const GALLEON_MATIC_TOKENS: TokenData[] = []
 
 const MATIC_TOKENS: TokenData[] = [
   {
@@ -556,8 +556,8 @@ const MATIC_TOKENS: TokenData[] = [
     logoURI:
       'https://assets.coingecko.com/coins/images/17267/small/amWMATIC_2x.png?1626967624',
   },
-  ...SETSWAP_MATIC_TOKENS,
+  ...GALLEON_MATIC_TOKENS,
 ]
 
-export { SETSWAP_MATIC_TOKENS }
+export { GALLEON_MATIC_TOKENS }
 export default MATIC_TOKENS

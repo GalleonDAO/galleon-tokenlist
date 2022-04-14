@@ -1,6 +1,6 @@
 import { TokenData } from '..'
 
-const SETSWAP_OPTIMISM_TOKENS: TokenData[] = [
+const GALLEON_OPTIMISM_TOKENS: TokenData[] = [
   {
     name: 'SOLUNAVAX Index',
     address: '0xbA6a2Fa321BB06D668c5192Be77428106c5C01E5',
@@ -8,7 +8,7 @@ const SETSWAP_OPTIMISM_TOKENS: TokenData[] = [
     decimals: 18,
     chainId: 10,
     logoURI:
-      'https://github.com/GalleonDAO/setswap-tokenlist/blob/main/logos/solunavax-200px.png?raw=true',
+      'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/solunavax-200px.png?raw=true',
   },
   {
     name: 'SOL 1X',
@@ -313,8 +313,8 @@ const OPTIMISM_TOKENS: TokenData[] = [
     chainId: 10,
     logoURI: 'https://ethereum-optimism.github.io/logos/CRV.png',
   },
-  ...SETSWAP_OPTIMISM_TOKENS,
+  ...GALLEON_OPTIMISM_TOKENS,
 ]
 
-export { SETSWAP_OPTIMISM_TOKENS }
+export { GALLEON_OPTIMISM_TOKENS }
 export default OPTIMISM_TOKENS
