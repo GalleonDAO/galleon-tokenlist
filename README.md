@@ -1,5 +1,4 @@
-Forked from [@IndexCoop](https://github.com/IndexCoop/tokenlists)
-# tokenlists
+# galleon token list
 
 npm: <https://www.npmjs.com/package/@galleondao/galleon-tokenlist>
 
