@@ -1,6 +1,6 @@
 {
   "name": "@galleondao/galleon-tokenlist",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Token lists used by Galleon",
   "main": "./build/cjs/index.js",
   "types": "./build/cjs/index.d.ts",
