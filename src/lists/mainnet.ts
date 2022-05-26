@@ -10,6 +10,15 @@ const GALLEON_MAINNET_TOKENS: TokenData[] = [
     logoURI:
       'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/ethmaxy.png?raw=true',
   },
+  {
+    name: 'Crypto Kai Blue Chip Index',
+    address: '0xD13bF4acF5d4b2407d785d2528D746fA75CF9778',
+    symbol: 'CKB',
+    decimals: 18,
+    chainId: 1,
+    logoURI:
+      'https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb-set.png',
+  },
 ]
 
 const MAINNET_TOKENS: TokenData[] = [
@@ -514,6 +523,33 @@ const MAINNET_TOKENS: TokenData[] = [
     decimals: 18,
     logoURI:
       'https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1/logo.png',
+  },
+  {
+    address: '0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b',
+    chainId: 1,
+    name: 'DeFi Pulse Index',
+    symbol: 'DPI',
+    decimals: 18,
+    logoURI:
+      'https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053',
+  },
+  {
+    address: '0x72e364f2abdc788b7e918bc238b21f109cd634d7',
+    chainId: 1,
+    name: 'Metaverse Index',
+    symbol: 'MVI',
+    decimals: 18,
+    logoURI:
+      'https://assets.coingecko.com/coins/images/14684/small/MVI_logo.png?1617776444',
+  },
+  {
+    address: '0x0954906da0bf32d5479e25f46056d22f08464cab',
+    chainId: 1,
+    name: 'Index Cooperative',
+    symbol: 'INDEX',
+    decimals: 18,
+    logoURI:
+      'https://assets.coingecko.com/coins/images/12729/small/index.png?1634894321',
   },
   {
     address: '0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D',
