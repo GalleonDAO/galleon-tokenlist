@@ -10,6 +10,15 @@ const GALLEON_OPTIMISM_TOKENS: TokenData[] = [
     logoURI:
       'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/BYE.png?raw=true',
   },
+    {
+    name: 'Spartan Index',
+    address: '0xb83E89129Bc8090eEfe3b3805ab2a9cb12D3fa7E',
+    symbol: 'SPI',
+    decimals: 18,
+    chainId: 10,
+    logoURI:
+      'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/SPI.png?raw=true',
+  },
 ]
 
 const OPTIMISM_TOKENS: TokenData[] = [

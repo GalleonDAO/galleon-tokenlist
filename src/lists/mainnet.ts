@@ -11,13 +11,31 @@ const GALLEON_MAINNET_TOKENS: TokenData[] = [
       'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/ethmaxy.png?raw=true',
   },
   {
-    name: 'Crypto Kai Blue Chip Index',
-    address: '0xD13bF4acF5d4b2407d785d2528D746fA75CF9778',
-    symbol: 'CKB',
+    name: 'Merge Index',
+    address: '0xe8543EdAF9161665F222606e622CFe52FA42d446',
+    symbol: 'MERGE',
     decimals: 18,
     chainId: 1,
     logoURI:
-      'https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb-set.png',
+      'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/MERGE.png?raw=true',
+  },
+   {
+    name: 'Crypto Fees Index',
+    address: '0xb9dfc3abb15916299eE4f51724063DcB0A1741d4',
+    symbol: 'FEES',
+    decimals: 18,
+    chainId: 1,
+    logoURI:
+      'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/FEES.png?raw=true',
+  },
+    {
+    name: 'veToken Index',
+    address: '0x4f3e7f98aa70a3b879101b23b46db1c422f85f52',
+    symbol: 'VOTE',
+    decimals: 18,
+    chainId: 1,
+    logoURI:
+      'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/VOTE.png?raw=true',
   },
 ]
 
