@@ -12,7 +12,7 @@ const GALLEON_MAINNET_TOKENS: TokenData[] = [
   },
   {
     name: 'Merge Index',
-    address: '0xe8543EdAF9161665F222606e622CFe52FA42d446',
+    address: '0xCf99D5465D39695162CA65bC59190fD92fa8e218',
     symbol: 'MERGE',
     decimals: 18,
     chainId: 1,
