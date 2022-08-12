@@ -19,7 +19,7 @@ const GALLEON_MAINNET_TOKENS: TokenData[] = [
     logoURI:
       'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/MERGE.png?raw=true',
   },
-   {
+  {
     name: 'Crypto Fees Index',
     address: '0xb9dfc3abb15916299eE4f51724063DcB0A1741d4',
     symbol: 'FEES',
@@ -28,7 +28,7 @@ const GALLEON_MAINNET_TOKENS: TokenData[] = [
     logoURI:
       'https://github.com/GalleonDAO/galleon-tokenlist/blob/main/logos/FEES.png?raw=true',
   },
-    {
+  {
     name: 'veToken Index',
     address: '0x4f3e7f98aa70a3b879101b23b46db1c422f85f52',
     symbol: 'VOTE',
@@ -40,6 +40,15 @@ const GALLEON_MAINNET_TOKENS: TokenData[] = [
 ]
 
 const MAINNET_TOKENS: TokenData[] = [
+  {
+    name: 'Redacted',
+    address: '0xc55126051B22eBb829D00368f4B12Bde432de5Da',
+    symbol: 'BTRFLY',
+    decimals: 18,
+    chainId: 1,
+    logoURI:
+      'https://assets.coingecko.com/coins/images/26745/small/redacted_v2.jpg?1660011507',
+  },
   {
     name: 'Aave variable debt bearing WETH',
     address: '0xF63B34710400CAd3e044cFfDcAb00a0f32E33eCf',
