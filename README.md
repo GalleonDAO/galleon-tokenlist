@@ -1,3 +1,6 @@
+# [DEPRECIATION]
+This repository is now not being developed but can still be forked, maintained & self-hosted
+
 # galleon token list
 
 npm: <https://www.npmjs.com/package/@galleondao/galleon-tokenlist>
